@@ -1,0 +1,8 @@
+testing testing.
+
+git init.
+git add EADME.md
+git commit -m "first commit/kenapa kita masukkan code ni/ action + object + sebab"
+git branch -M main
+
+apa2 dalam ni git boleh track, through git init
